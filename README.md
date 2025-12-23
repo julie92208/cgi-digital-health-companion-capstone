@@ -6,6 +6,22 @@ The project simulates a real client engagement where our team acts as business a
 
 ---
 
+## Award and Recognition
+
+**First Position – Fall 2025 AGSIT Capstone Showcase**  
+School of Applied Computer Science and Information Technology, Conestoga College
+
+This award recognizes excellence in:
+- Business analysis quality
+- Solution design and evaluation
+- Financial and strategic analysis
+- Professional presentation and communication
+
+![Capstone Award Certificate](./figs/certificate.jpg)
+
+
+---
+
 ## 1. Project Overview
 
 - **Client:** CGI (simulated case)
@@ -76,7 +92,17 @@ Screenshots are in the [`figs/`](./figs) folder:
 - `app_prototype_screens.png` – mobile UI prototype preview  
 - `poster_preview.png` – 48x36 capstone poster snapshot  
 
-Prototype link is in [`prototype/figma_link.txt`](./prototype/figma_link.txt).
+
+---
+
+## Prototype Demo Video
+Prototype link is in [`[prototype/figma_link.txt](https://pixel-motion-71650822.figma.site)`](.[/prototype/figma_link.txt](https://pixel-motion-71650822.figma.site)).
+
+A short demo video demonstrating key user flows and the To-Be process is available here:
+
+- [Watch the prototype demo video](https://github.com/你的帳號/你的repo/issues/1)
+
+
 
 ---
 
@@ -104,7 +130,7 @@ In this project, I focused on:
 
 ## 5. How to Navigate This Repo
 
-- 📁 [`docs/`](./docs) – Full reports (PDF/Excel)  
+- 📁 [`docs/`](./docs) – Final reports (PDF/Word)  
 - 📁 [`slides/`](./slides) – Final presentation and poster  
 - 📁 [`figs/`](./figs) – Screenshots and diagrams  
 - 📁 [`prototype/`](./prototype) – Figma link  
