@@ -10,7 +10,7 @@ The project simulates a real client engagement where our team acts as business a
 
 - **Client:** CGI (simulated case)
 - **Industry:** Digital Health / Healthcare Technology  
-- **Role:** Business Analyst / Solution Designer  
+- **Role:** Project Manager / Business Analyst / Solution Designer  
 - **Goal:** Design a consumer-facing **Digital Health Companion app** that helps users manage medications, vitals, and appointments, while enabling CGI to expand into the B2B2C digital health market.
 
 **Key questions addressed:**
