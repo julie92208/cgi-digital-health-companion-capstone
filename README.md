@@ -95,6 +95,7 @@ Screenshots are in the [`figs/`](./figs/diagrams) folder:
 ## Prototype Demo Video
 Interactive Figma prototype:
 - https://pixel-motion-71650822.figma.site
+
 **Demo Access (for review purposes only):**  
 Username: sarah.chen@email.com
 Password: password123
