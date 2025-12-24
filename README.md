@@ -154,22 +154,26 @@ Users can manage their personal profile, connected devices, data preferences, an
 
 ## 4. My Role & Skills Demonstrated
 
-In this project, I focused on:
+In this capstone project, I primarily contributed as a Business Analyst and Project Project Manager, with hands-on involvement in database design and Figma prototyping:
 
-- **Business Analysis**
+- **Business Analysis & Project Manager**
   - Eliciting and structuring business requirements  
-  - Defining success metrics, risks, assumptions, and dependencies  
+  - Defining success metrics, risks, assumptions, and dependencies
+  - Coordinated task allocation, timelines, and team deliverables to ensure on-time completion  
 
-- **Solution & Data Design**
+- **Solution Data Design**
   - Evaluating solution options and recommending a target architecture  
-  - Designing the high-level data model and database ERD  
+  - Designing the high-level data model and database ERD
+ 
+- **Prototype Design**
+  - Built an interactive Figma prototype to demonstrate key user flows and validate the proposed solution
 
 - **Financial & Strategic Thinking**
-  - Building ROI models and comparing 5-year vs 20-year outcomes  
+  - Building ROI models and comparing with do-nothing outcomes  
   - Translating strategy and financial results into clear visuals and slides  
 
 - **Communication**
-  - Creating a 30-minute client presentation and a poster  
+  - Creating a 30-minute client presentation and a poster presentation 
   - Presenting complex ideas in a clear, visual, and engaging way  
 
 ---
