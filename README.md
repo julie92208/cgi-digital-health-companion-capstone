@@ -82,7 +82,33 @@ All detailed documents are in the [`docs/`](./docs) folder.
 
 ---
 
-## 3. Visuals & Artifacts
+## 3. My Role & Skills Demonstrated
+
+In this capstone project, I primarily contributed as a Business Analyst and Project Project Manager, with hands-on involvement in database design and Figma prototyping:
+
+- **Business Analysis & Project Manager**
+  - Eliciting and structuring business requirements  
+  - Defining success metrics, risks, assumptions, and dependencies
+  - Coordinated task allocation, timelines, and team deliverables to ensure on-time completion  
+
+- **Solution Data Design**
+  - Evaluating solution options and recommending a target architecture  
+  - Designing the high-level data model and database ERD
+ 
+- **Prototype Design**
+  - Built an interactive Figma prototype to demonstrate key user flows and validate the proposed solution
+
+- **Financial & Strategic Thinking**
+  - Building ROI models and comparing with do-nothing outcomes  
+  - Translating strategy and financial results into clear visuals and slides  
+
+- **Communication**
+  - Creating a 30-minute client presentation and a poster presentation 
+  - Presenting complex ideas in a clear, visual, and engaging way  
+
+---
+
+## 4. Visuals & Artifacts
 
 Screenshots are in the [`figs/`](./figs/diagrams) folder:
 
@@ -152,32 +178,6 @@ Users can manage their personal profile, connected devices, data preferences, an
 
 ---
 
-## 4. My Role & Skills Demonstrated
-
-In this capstone project, I primarily contributed as a Business Analyst and Project Project Manager, with hands-on involvement in database design and Figma prototyping:
-
-- **Business Analysis & Project Manager**
-  - Eliciting and structuring business requirements  
-  - Defining success metrics, risks, assumptions, and dependencies
-  - Coordinated task allocation, timelines, and team deliverables to ensure on-time completion  
-
-- **Solution Data Design**
-  - Evaluating solution options and recommending a target architecture  
-  - Designing the high-level data model and database ERD
- 
-- **Prototype Design**
-  - Built an interactive Figma prototype to demonstrate key user flows and validate the proposed solution
-
-- **Financial & Strategic Thinking**
-  - Building ROI models and comparing with do-nothing outcomes  
-  - Translating strategy and financial results into clear visuals and slides  
-
-- **Communication**
-  - Creating a 30-minute client presentation and a poster presentation 
-  - Presenting complex ideas in a clear, visual, and engaging way  
-
----
-
 ## 5. How to Navigate This Repo
 
 - 📁 [`docs/`](./docs) – Final reports (PDF/Word)  
@@ -193,8 +193,8 @@ In this capstone project, I primarily contributed as a Business Analyst and Proj
 If you’d like to discuss this project or my work as a Business/Data Analyst:
 
 - **Name:** Julie  
-- **Location:** Kitchener, ON, Canada  
-- **Portfolio:** (add your GitHub Pages or portfolio URL here)  
-- **LinkedIn:** (add your LinkedIn here)
+- **Location:** ON, Canada  
+- **Portfolio:** (https://github.com/julie92208/data-analyst-portfolio)  
+- **LinkedIn:** (www.linkedin.com/in/julie-jang-ya-jwu)
 
 
