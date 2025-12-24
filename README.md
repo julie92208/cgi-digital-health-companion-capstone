@@ -93,8 +93,10 @@ Screenshots are in the [`figs/`](./figs/diagrams) folder:
 ---
 
 ## Prototype Demo Video
-Prototype link is in [`[prototype/figma_link.txt](https://pixel-motion-71650822.figma.site)`](.[/prototype/figma_link.txt](https://pixel-motion-71650822.figma.site)).
+Interactive Figma prototype:
+- https://pixel-motion-71650822.figma.site
 
+  
 A short demo video demonstrating key user flows and the To-Be process is available here:
 
 - [Watch the prototype demo video](https://github.com/julie92208/cgi-digital-health-companion-capstone/issues/2)
