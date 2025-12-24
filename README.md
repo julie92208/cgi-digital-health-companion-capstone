@@ -95,6 +95,9 @@ Screenshots are in the [`figs/`](./figs/diagrams) folder:
 ## Prototype Demo Video
 Interactive Figma prototype:
 - https://pixel-motion-71650822.figma.site
+**Demo Access (for review purposes only):**  
+Username: sarah.chen@email.com
+Password: password123
 
   
 A short demo video demonstrating key user flows and the To-Be process is available here:
