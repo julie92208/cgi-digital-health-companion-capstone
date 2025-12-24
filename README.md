@@ -62,7 +62,7 @@ All detailed documents are in the [`docs/`](./docs) folder.
 
 - **ROI & Financial Analysis**  
   - 5-year and 20-year ROI comparison  
-  - Option 1 vs Option 2 vs Do Nothing  
+  - Option 1 vs Do Nothing  
   - Payback period, NPV-style thinking, and key financial assumptions
 
 - **Risk Log**  
@@ -84,11 +84,11 @@ All detailed documents are in the [`docs/`](./docs) folder.
 
 ## 3. Visuals & Artifacts
 
-Screenshots are in the [`figs/`](./figs) folder:
+Screenshots are in the [`figs/`](./figs/diagram) folder:
 
 - `as_is_process.png` – current state process flow  
 - `to_be_process.png` – future state process flow with DHC app  
-- `database_erd.png` – database entity-relationship diagram  
+- `database_erd.jpg` – database entity-relationship diagram  
 - `app_prototype_screens.png` – mobile UI prototype preview  
 - `poster_preview.png` – 48x36 capstone poster snapshot  
 
