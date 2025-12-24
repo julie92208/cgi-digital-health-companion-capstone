@@ -109,7 +109,7 @@ Below is a guided walkthrough of the Digital Health Companion prototype, demonst
 ### 1. Secure Login
 User authentication with password and biometric sign-in to ensure HIPAA/PHIPA-compliant access.
 
-<img src="./figs/demo/01_login.png" width="420">
+<img src="./figs/demo/01_login.png" width="400">
 
 ### 2. Health Dashboard
 A personalized dashboard showing overall health score, activity, sleep, and vitals at a glance.
