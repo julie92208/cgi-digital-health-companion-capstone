@@ -114,37 +114,37 @@ User authentication with password and biometric sign-in to ensure HIPAA/PHIPA-co
 ### 2. Health Dashboard
 A personalized dashboard showing overall health score, activity, sleep, and vitals at a glance.
 
-![Health Dashboard](./figs/demo/02_dashboard.png)
+<img src="./figs/demo/02_dashboard.png" width="400">
 
 ### 3. AI Health Insights
 AI-generated insights highlighting achievements, recommendations, and high-priority alerts.
 
-![AI Health Insights](./figs/demo/03_health_insights.png)
+<img src="./figs/demo/03_health_insights.png" width="400">
 
 ### 4. Appointment Scheduling
 Users can select providers, dates, and available time slots directly within the app.
 
-![Appointments](./figs/demo/04_appointments.png)
+<img src="./figs/demo/04_appointments.png" width="400">
 
 ### 5. Connected Devices
 Real-time health data synchronized from wearable devices such as Apple Watch.
 
-![Connected Devices](./figs/demo/05_device_sync.png)
+<img src="./figs/demo/05_device_sync.png" width="400">
 
 ### 6. Medication Management
 Medication adherence tracking with reminders, status updates, and adherence analytics.
 
-![Medications](./figs/demo/06_medications.png)
+<img src="./figs/demo/06_medications.png" width="400">
 
 ### 7. Secure Messaging
 HIPAA/PHIPA-compliant messaging between patients, providers, and caregivers.
 
-![Secure Messages](./figs/demo/07_secure_messages.png)
+<img src="./figs/demo/07_secure_messages.png" width="400">
 
 ### 8. Subscription Management
 Users can manage their personal profile, connected devices, data preferences, and premium subscription features within a single settings view.
 
-![Secure Messages](./figs/demo/08_subscription.png)
+<img src="./figs/demo/08_subscription.png" width="400">
 
 
 ---
