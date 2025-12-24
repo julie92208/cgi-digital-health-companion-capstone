@@ -84,7 +84,7 @@ All detailed documents are in the [`docs/`](./docs) folder.
 
 ## 3. Visuals & Artifacts
 
-Screenshots are in the [`figs/`](./figs/diagram) folder:
+Screenshots are in the [`figs/`](./figs/diagrams) folder:
 
 - `as_is_process.png` – current state process flow  
 - `to_be_process.png` – future state process flow with DHC app  
