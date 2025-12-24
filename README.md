@@ -86,10 +86,7 @@ All detailed documents are in the [`docs/`](./docs) folder.
 
 Screenshots are in the [`figs/`](./figs/diagrams) folder:
 
-- `as_is_process.png` – current state process flow  
-- `to_be_process.png` – future state process flow with DHC app  
 - `database_erd.jpg` – database entity-relationship diagram  
-- `app_prototype_screens.png` – mobile UI prototype preview  
 - `poster_preview.png` – 48x36 capstone poster snapshot  
 
 
