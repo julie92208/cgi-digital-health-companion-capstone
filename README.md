@@ -102,6 +102,53 @@ A short demo video demonstrating key user flows and the To-Be process is availab
 
 - [Watch the prototype demo video](https://github.com/julie92208/cgi-digital-health-companion-capstone/issues/2)
 
+## Application Demo (Screenshots)
+
+Below is a guided walkthrough of the Digital Health Companion prototype, demonstrating key user flows and core functionalities.
+
+### 1. Secure Login
+User authentication with password and biometric sign-in to ensure HIPAA/PHIPA-compliant access.
+
+![Login Screen](./figs/demo/01_login.jpg)
+
+### 2. Health Dashboard
+A personalized dashboard showing overall health score, activity, sleep, and vitals at a glance.
+
+![Health Dashboard](./figs/demo/02_dashboard.jpg)
+
+### 3. AI Health Insights
+AI-generated insights highlighting achievements, recommendations, and high-priority alerts.
+
+![AI Health Insights](./figs/demo/03_health_insights.jgp)
+
+### 4. Appointment Scheduling
+Users can select providers, dates, and available time slots directly within the app.
+
+![Appointments](./figs/demo/04_appointments.jgp)
+
+### 5. Connected Devices
+Real-time health data synchronized from wearable devices such as Apple Watch.
+
+![Connected Devices](./figs/demo/05_device_sync.jgp)
+
+### 6. Medication Management
+Medication adherence tracking with reminders, status updates, and adherence analytics.
+
+![Medications](./figs/demo/06_medications.jgp)
+
+### 7. Secure Messaging
+HIPAA/PHIPA-compliant messaging between patients, providers, and caregivers.
+
+![Secure Messages](./figs/demo/07_secure_messages.jpg)
+
+### 8. Subscription Management
+Users can manage their personal profile, connected devices, data preferences, and premium subscription features within a single settings view.
+
+![Secure Messages](./figs/demo/08_subscription.jpg)
+
+**Demo Flow Summary:**  
+Login → Dashboard → Insights → Appointments → Devices → Medications → Messaging
+
 
 
 ---
