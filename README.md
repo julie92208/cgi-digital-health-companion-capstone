@@ -17,7 +17,7 @@ This award recognizes excellence in:
 - Financial and strategic analysis
 - Professional presentation and communication
 
-![Capstone Award Certificate](./figs/certificate.jpg)
+<img src="./figs/certificate.jpg" width="450">
 
 
 ---
