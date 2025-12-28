@@ -61,7 +61,7 @@ All detailed documents are in the [`docs/`](./docs) folder.
   - Data governance considerations
 
 - **ROI & Financial Analysis**  
-  - 5-year and 20-year ROI comparison  
+  - 5-year ROI calculation  
   - Option 1 vs Do Nothing  
   - Payback period, NPV-style thinking, and key financial assumptions
 
