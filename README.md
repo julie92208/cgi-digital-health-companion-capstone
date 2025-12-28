@@ -183,8 +183,7 @@ Users can manage their personal profile, connected devices, data preferences, an
 - 📁 [`docs/`](./docs) – Final reports (PDF/Word)  
 - 📁 [`slides/`](./slides) – Final presentation and poster  
 - 📁 [`figs/`](./figs) – Screenshots and diagrams  
-- 📁 [`prototype/`](./prototype) – Figma link  
-- 📁 [`data_samples/`](./data_samples) – Sample requirements and test cases  
+- 📁 [`prototype/`](https://pixel-motion-71650822.figma.site) – Figma link  
 
 ---
 
@@ -192,7 +191,7 @@ Users can manage their personal profile, connected devices, data preferences, an
 
 If you’d like to discuss this project or my work as a Business/Data Analyst:
 
-- **Name:** Julie  
+- **Name:** Ya-Jwu Julie Jang
 - **Location:** ON, Canada  
 - **Portfolio:** (https://github.com/julie92208/data-analyst-portfolio)  
 - **LinkedIn:** (www.linkedin.com/in/julie-jang-ya-jwu)
