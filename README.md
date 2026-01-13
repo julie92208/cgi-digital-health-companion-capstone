@@ -6,22 +6,6 @@ The project simulates a real client engagement where our team acts as business a
 
 ---
 
-## Award and Recognition
-
-**First Position – Fall 2025 AGSIT Capstone Showcase**  
-School of Applied Computer Science and Information Technology, Conestoga College
-
-This award recognizes excellence in:
-- Business analysis quality
-- Solution design and evaluation
-- Financial and strategic analysis
-- Professional presentation and communication
-
-<img src="./figs/certificate.jpg" width="450">
-
-
----
-
 ## 1. Project Overview
 
 - **Client:** CGI (simulated case)
@@ -177,8 +161,22 @@ Users can manage their personal profile, connected devices, data preferences, an
 
 
 ---
+## 5. Award and Recognition
 
-## 5. How to Navigate This Repo
+**First Position – Fall 2025 AGSIT Capstone Showcase**  
+School of Applied Computer Science and Information Technology, Conestoga College
+
+This award recognizes excellence in:
+- Business analysis quality
+- Solution design and evaluation
+- Financial and strategic analysis
+- Professional presentation and communication
+
+<img src="./figs/certificate.jpg" width="450">
+
+
+---
+## 6. How to Navigate This Repo
 
 - 📁 [`docs/`](./docs) – Final reports (PDF/Word)  
 - 📁 [`slides/`](./slides) – Final presentation and poster  
@@ -187,7 +185,7 @@ Users can manage their personal profile, connected devices, data preferences, an
 
 ---
 
-## 6. Contact
+## 7. Contact
 
 If you’d like to discuss this project or my work as a Business/Data Analyst:
 
