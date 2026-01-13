@@ -191,7 +191,7 @@ If you’d like to discuss this project or my work as a Business/Data Analyst:
 
 - **Name:** Ya-Jwu Julie Jang
 - **Location:** ON, Canada  
-- **Portfolio:** (https://github.com/julie92208/data-analyst-portfolio)  
-- **LinkedIn:** (www.linkedin.com/in/julie-jang-ya-jwu)
+- **Portfolio:** https://github.com/julie92208/data-analyst-portfolio 
+- **LinkedIn:** www.linkedin.com/in/julie-jang-ya-jwu
 
 
